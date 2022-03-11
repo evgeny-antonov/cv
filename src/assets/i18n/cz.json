@@ -1,0 +1,42 @@
+{
+  "aboutMe": "O mně",
+  "education": "Vzdělání",
+  "workExperience": "Pracovní zkušenosti",
+  "languages": "Jazyky",
+  "hobby": "Hobby",
+
+  "tonya": "Bc. Evgeny Antonov",
+  "youngAndEnthusiasticFullStackWebDeveloper": "Mladý a nadšený finanční specialista",
+
+  "aboutMeText": "Jsem nadšený pracovat s klienty a přispívat na blahobyt společnosti. V tom jsem se našel. Nezbytnou součástí práce s klienty je proklientský ale zároveň asertivní přístup, na což jsem se naučil různé prodejní metody typu challenger selling, SNAP sale, Sandler sale atd., psychologii osobnosti, marketing a mnoho dalšího co se obchodních dovednosti tyče.  Dalším úhlem mého zájmu a zároveň důležitou součástí v budování stabilního prostředí v práci s klienty je vytváření a řízení týmu.  V tom jsem docela uspěl jak z hlediska budování individuálních přístupu k motivaci každého členu mého týmu ale i k vytváření systematičnosti z hlediska dohledu nad splněním jednotlivých dílčích úkolu. V neposlední řadě mám komplexní přehled o různých produktech na finančním trhu zejména investic, životního a neživotního pojištění spolu s následnou správou sjednaných produktů.\n",
+  "motivationText": "<p class=\"pt-0\">Kód této stránky: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
+
+  "letsMeet": "Pojďme se seznámit",
+  "next": "Dále",
+  "back": "Zpět",
+
+  "educationText": "Úspěšné ukončení bakalářského studia na <b>Fakultě informačních technologií Vysokého učení technického v Brně</b>",
+
+  "selfEmployed": "ProfiFp",
+  "firstWorkPosition": "Finanční poradce Junior Manažer",
+  "secondWorkPosition": "Barman Vedoucí Směny",
+  "thirdWorkPosition": "Plnič technických plynů",
+  "untilNow": "doteď",
+
+  "SelfEmployedDescription": "<p>Náplní mé práce bylo vyhledování nových klientů, financní analýza jejich cílů a potřeb a následné porovnání a prezentování vhodných pro ně produktů na finančním trhu v oblasti životního a neživotního pojištění a investic.</p><p>Dále to zahrňovalo:<ul><ul><li>Komunikace se stavajícími klienty a upravování smluv vzhledem k změně jejich životní a aktualní situaci na finančním trhu,</li><li></li><li></li></ul>front-end a back-end systému pro dopravní podnik (prodej jízdenek a zboží, zpracování žádostí o čipové karty atd.).</li></ul><p>Taky jsem složila zkoušku z knihy „Čistý kód“, zkusila vytváření CSS animací a vývoj aplikací pro Android pomoci Flutteru.</p>",
+  "TFWorkDescription": "<p></p>",
+  "IWWorkDescription": "<p>Práce pro startup. Vývoji CRM systému pro získávání požadavků zákazníka na web v jazycích PHP 7 (framework Nette), SQL a JavaScript (framework jQuery). Daný CRM systém byl zároveň praktickou části moje bakalářské práce.</p>",
+
+  "russian": "Ruský",
+  "czech": "Český",
+  "english": "Anglický",
+  "slovak": "Slovenský",
+
+  "contact": "Kontakt",
+  "mobile": "Mobil:",
+  "email": "E-mail:",
+  "github": "GitHub:",
+  "linkedin": "LinkedIn:",
+  "downloadPdf": "Stáhnout PDF",
+  "imLookingForwardToYourReply": "Těším se na vaší odpověď \uD83D\uDE42"
+}
